@@ -20,3 +20,7 @@ Future work:
 1. Can be linked directy to the game.
 2. Modify to find other word finding game
 
+
+Feel free to send suggestion about how to improve the code or any future work.
+
+Email: ashfaaq77@gmail.com

@@ -2,6 +2,7 @@
 This is a word finder for WordScapes game
 
 Link for google play: https://play.google.com/store/apps/details?id=com.peoplefun.wordcross&hl=en
+
 Link for apple store: https://itunes.apple.com/us/app/wordscapes/id1207472156
 
 This script is written using Python3
